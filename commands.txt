@@ -1,5 +1,8 @@
 git init => for initializing git in pwd
 
 
-git add -
-git commit -m "message"
+git add -A  => adding all changes to staging area
+git commit -m "message" => adding staged files to local repository
+git status => list all untracked files
+git config --global user.name "username"
+git config --global user.email "useremail"
