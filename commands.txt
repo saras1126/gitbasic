@@ -6,3 +6,7 @@ git commit -m "message" => adding staged files to local repository
 git status => list all untracked files
 git config --global user.name "username"
 git config --global user.email "useremail"
+git branch
+git branch branch_name
+git checkout branch_name_new
+git pull temp branch_name 
