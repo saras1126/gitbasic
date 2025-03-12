@@ -12,3 +12,4 @@ git checkout branch_name_new
 git pull temp branch_name 
 git clone link
 git comments are added
+line edited from local
